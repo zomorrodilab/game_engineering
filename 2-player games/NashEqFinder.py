@@ -559,10 +559,6 @@ class NashEqFinder(object):
         
         def tuple_to_var_name(t):
             return str(t).replace(" ", "").replace('(', "").replace(')', "").replace("'","").replace(',','_')
-        
-
-        # set tolerance for optlang
-        print("optlang.interface is: ", optlang.interface)
 
         # Adding new variables 
         model = Model(name=f'Original Model')
