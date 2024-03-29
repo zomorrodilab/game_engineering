@@ -25,7 +25,8 @@ You can now run the Jupyter notebook by running the following command in your te
 ```bash
 jupyter notebook
 ```
-and open the `manuscript_code.ipynb` file. Make sure to select the `manuscript` kernel that you created in the previous step by clicking on `Kernel` -> `Change kernel` -> `manuscript`.
+Now you can navigate to either the `2-player games` or `4-player games` folder. Once you are in the desired folder, open the `.ipynb` file. 
+For the last step, make sure to select the `manuscript` kernel that you created in the previous step by clicking on `Kernel` -> `Change kernel` -> `manuscript`.
 Note: If you usually use IDEs like VSCode, you can also use the Jupyter extension to run the notebook directly from there.
 
-Now that you are in the Jupyter notebook, you can run the code by clicking on `Cell` -> `Run All`. This will run all the cells in the notebook and produce the results.
+Now that you are in the Jupyter notebook and have the correct environment running, you can run the code by clicking on `Cell` -> `Run All`. This will run all the cells in the notebook and produce the results.
