@@ -1,0 +1,16 @@
+name: manuscript
+channels:
+  - defaults
+  - https://conda.anaconda.org/gurobi
+dependencies:
+  - python=3.8.5
+  - matplotlib
+  # For exact reproducibility, use
+  #     gurobipy version 11.0.0
+  #     gurobi license: 1 year academic, version 11
+  - gurobi=11.0.0
+  - sympy>=1.9
+  - pip
+  - pip:
+    - optlang==1.8.1
+    - ipykernel

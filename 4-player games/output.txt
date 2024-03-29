@@ -1,0 +1,192 @@
+Changed cells for solution 1:
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'C'), ('player4', 'C')) | Player: player1 | Sign: plus | Value: 5.02
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'C'), ('player4', 'C')) | Player: player3 | Sign: plus | Value: 1.02
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'C'), ('player4', 'C')) | Player: player4 | Sign: plus | Value: 2.02
+Cell: (('player1', 'D'), ('player2', 'D'), ('player3', 'D'), ('player4', 'C')) | Player: player4 | Sign: plus | Value: 0.01999999999952706
+
+Changed cells for solution 2:
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'C'), ('player4', 'D')) | Player: player4 | Sign: minus | Value: 2.02
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'D'), ('player4', 'C')) | Player: player3 | Sign: minus | Value: 1.02
+Cell: (('player1', 'D'), ('player2', 'C'), ('player3', 'C'), ('player4', 'C')) | Player: player1 | Sign: minus | Value: 5.02
+Cell: (('player1', 'D'), ('player2', 'D'), ('player3', 'D'), ('player4', 'C')) | Player: player4 | Sign: plus | Value: 0.019999999999754436
+
+Changed cells for solution 3:
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'C'), ('player4', 'C')) | Player: player3 | Sign: plus | Value: 1.0199999999999871
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'C'), ('player4', 'D')) | Player: player4 | Sign: minus | Value: 2.019999999999989
+Cell: (('player1', 'D'), ('player2', 'C'), ('player3', 'C'), ('player4', 'C')) | Player: player1 | Sign: minus | Value: 5.019999999999985
+Cell: (('player1', 'D'), ('player2', 'D'), ('player3', 'D'), ('player4', 'C')) | Player: player4 | Sign: plus | Value: 0.019999999998641993
+
+Changed cells for solution 4:
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'C'), ('player4', 'C')) | Player: player3 | Sign: plus | Value: 1.0199999999999871
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'C'), ('player4', 'C')) | Player: player4 | Sign: plus | Value: 2.019999999999989
+Cell: (('player1', 'D'), ('player2', 'C'), ('player3', 'C'), ('player4', 'C')) | Player: player1 | Sign: minus | Value: 5.019999999999985
+Cell: (('player1', 'D'), ('player2', 'D'), ('player3', 'D'), ('player4', 'C')) | Player: player4 | Sign: plus | Value: 0.019999999998641993
+
+Changed cells for solution 5:
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'C'), ('player4', 'C')) | Player: player4 | Sign: plus | Value: 2.019999999999989
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'D'), ('player4', 'C')) | Player: player3 | Sign: minus | Value: 1.0199999999999871
+Cell: (('player1', 'D'), ('player2', 'C'), ('player3', 'C'), ('player4', 'C')) | Player: player1 | Sign: minus | Value: 5.019999999999985
+Cell: (('player1', 'D'), ('player2', 'D'), ('player3', 'D'), ('player4', 'C')) | Player: player4 | Sign: plus | Value: 0.019999999998641993
+
+Changed cells for solution 6:
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'C'), ('player4', 'C')) | Player: player1 | Sign: plus | Value: 5.019999999999978
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'C'), ('player4', 'C')) | Player: player3 | Sign: plus | Value: 1.0199999999999747
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'C'), ('player4', 'D')) | Player: player4 | Sign: minus | Value: 2.0199999999999747
+Cell: (('player1', 'D'), ('player2', 'D'), ('player3', 'D'), ('player4', 'C')) | Player: player4 | Sign: plus | Value: 0.019999999998590923
+
+Changed cells for solution 7:
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'C'), ('player4', 'C')) | Player: player1 | Sign: plus | Value: 5.019999999999978
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'C'), ('player4', 'C')) | Player: player4 | Sign: plus | Value: 2.019999999999957
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'D'), ('player4', 'C')) | Player: player3 | Sign: minus | Value: 1.019999999999957
+Cell: (('player1', 'D'), ('player2', 'D'), ('player3', 'D'), ('player4', 'C')) | Player: player4 | Sign: plus | Value: 0.019999999998590923
+
+Changed cells for solution 8:
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'C'), ('player4', 'C')) | Player: player1 | Sign: plus | Value: 5.019999999999978
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'C'), ('player4', 'D')) | Player: player4 | Sign: minus | Value: 2.0199999999999747
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'D'), ('player4', 'C')) | Player: player3 | Sign: minus | Value: 1.0199999999999747
+Cell: (('player1', 'D'), ('player2', 'D'), ('player3', 'D'), ('player4', 'C')) | Player: player4 | Sign: plus | Value: 0.019999999998590923
+
+Changed cells for solution 9:
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'C'), ('player4', 'C')) | Player: player1 | Sign: plus | Value: 5.02
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'C'), ('player4', 'C')) | Player: player3 | Sign: plus | Value: 1.02
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'C'), ('player4', 'C')) | Player: player4 | Sign: plus | Value: 2.02
+Cell: (('player1', 'C'), ('player2', 'D'), ('player3', 'D'), ('player4', 'D')) | Player: player1 | Sign: plus | Value: 3.019999999999996
+
+Changed cells for solution 10:
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'C'), ('player4', 'C')) | Player: player1 | Sign: plus | Value: 5.02
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'C'), ('player4', 'D')) | Player: player4 | Sign: minus | Value: 2.02
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'D'), ('player4', 'C')) | Player: player3 | Sign: minus | Value: 1.02
+Cell: (('player1', 'D'), ('player2', 'D'), ('player3', 'C'), ('player4', 'D')) | Player: player3 | Sign: plus | Value: 3.019999999999996
+
+Changed cells for solution 11:
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'C'), ('player4', 'D')) | Player: player4 | Sign: minus | Value: 2.02
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'D'), ('player4', 'C')) | Player: player3 | Sign: minus | Value: 1.02
+Cell: (('player1', 'D'), ('player2', 'C'), ('player3', 'C'), ('player4', 'C')) | Player: player1 | Sign: minus | Value: 5.02
+Cell: (('player1', 'D'), ('player2', 'D'), ('player3', 'C'), ('player4', 'D')) | Player: player3 | Sign: plus | Value: 3.0199999999990723
+
+Changed cells for solution 12:
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'C'), ('player4', 'C')) | Player: player3 | Sign: plus | Value: 1.02
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'C'), ('player4', 'D')) | Player: player4 | Sign: minus | Value: 2.02
+Cell: (('player1', 'C'), ('player2', 'D'), ('player3', 'D'), ('player4', 'D')) | Player: player1 | Sign: plus | Value: 3.0199999999990723
+Cell: (('player1', 'D'), ('player2', 'C'), ('player3', 'C'), ('player4', 'C')) | Player: player1 | Sign: minus | Value: 5.02
+
+Changed cells for solution 13:
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'C'), ('player4', 'D')) | Player: player4 | Sign: minus | Value: 2.02
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'D'), ('player4', 'C')) | Player: player3 | Sign: minus | Value: 1.02
+Cell: (('player1', 'C'), ('player2', 'D'), ('player3', 'D'), ('player4', 'D')) | Player: player1 | Sign: plus | Value: 3.019999999997
+Cell: (('player1', 'D'), ('player2', 'C'), ('player3', 'C'), ('player4', 'C')) | Player: player1 | Sign: minus | Value: 5.02
+
+Changed cells for solution 14:
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'C'), ('player4', 'C')) | Player: player1 | Sign: plus | Value: 5.02
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'C'), ('player4', 'C')) | Player: player3 | Sign: plus | Value: 1.02
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'C'), ('player4', 'D')) | Player: player4 | Sign: minus | Value: 2.02
+Cell: (('player1', 'C'), ('player2', 'D'), ('player3', 'D'), ('player4', 'D')) | Player: player1 | Sign: plus | Value: 3.019999999997
+
+Changed cells for solution 15:
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'C'), ('player4', 'C')) | Player: player4 | Sign: plus | Value: 2.0199999999999747
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'D'), ('player4', 'C')) | Player: player3 | Sign: minus | Value: 1.02
+Cell: (('player1', 'C'), ('player2', 'D'), ('player3', 'D'), ('player4', 'D')) | Player: player1 | Sign: plus | Value: 3.019999999997
+Cell: (('player1', 'D'), ('player2', 'C'), ('player3', 'C'), ('player4', 'C')) | Player: player1 | Sign: minus | Value: 5.02
+
+Changed cells for solution 16:
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'C'), ('player4', 'C')) | Player: player3 | Sign: plus | Value: 1.019999999999957
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'C'), ('player4', 'C')) | Player: player4 | Sign: plus | Value: 2.019999999999957
+Cell: (('player1', 'C'), ('player2', 'D'), ('player3', 'D'), ('player4', 'D')) | Player: player1 | Sign: plus | Value: 3.019999999997
+Cell: (('player1', 'D'), ('player2', 'C'), ('player3', 'C'), ('player4', 'C')) | Player: player1 | Sign: minus | Value: 5.02
+
+Changed cells for solution 17:
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'C'), ('player4', 'C')) | Player: player1 | Sign: plus | Value: 5.019999999999964
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'C'), ('player4', 'D')) | Player: player4 | Sign: minus | Value: 2.02
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'D'), ('player4', 'C')) | Player: player3 | Sign: minus | Value: 1.02
+Cell: (('player1', 'C'), ('player2', 'D'), ('player3', 'D'), ('player4', 'D')) | Player: player1 | Sign: plus | Value: 3.019999999997
+
+Changed cells for solution 18:
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'C'), ('player4', 'C')) | Player: player1 | Sign: plus | Value: 5.02
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'C'), ('player4', 'C')) | Player: player4 | Sign: plus | Value: 2.019999999999957
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'D'), ('player4', 'C')) | Player: player3 | Sign: minus | Value: 1.02
+Cell: (('player1', 'C'), ('player2', 'D'), ('player3', 'D'), ('player4', 'D')) | Player: player1 | Sign: plus | Value: 3.019999999997
+
+Changed cells for solution 19:
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'C'), ('player4', 'C')) | Player: player1 | Sign: plus | Value: 5.019999999999978
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'C'), ('player4', 'C')) | Player: player3 | Sign: plus | Value: 1.0199999999999747
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'C'), ('player4', 'C')) | Player: player4 | Sign: plus | Value: 2.0199999999999747
+Cell: (('player1', 'D'), ('player2', 'D'), ('player3', 'C'), ('player4', 'D')) | Player: player3 | Sign: plus | Value: 3.019999999997
+
+Changed cells for solution 20:
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'C'), ('player4', 'C')) | Player: player4 | Sign: plus | Value: 2.02
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'D'), ('player4', 'C')) | Player: player3 | Sign: minus | Value: 1.02
+Cell: (('player1', 'D'), ('player2', 'C'), ('player3', 'C'), ('player4', 'C')) | Player: player1 | Sign: minus | Value: 5.02
+Cell: (('player1', 'D'), ('player2', 'D'), ('player3', 'C'), ('player4', 'D')) | Player: player3 | Sign: plus | Value: 3.0199999999990723
+
+Changed cells for solution 21:
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'C'), ('player4', 'C')) | Player: player1 | Sign: plus | Value: 5.02
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'C'), ('player4', 'C')) | Player: player4 | Sign: plus | Value: 2.02
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'D'), ('player4', 'C')) | Player: player3 | Sign: minus | Value: 1.02
+Cell: (('player1', 'D'), ('player2', 'D'), ('player3', 'C'), ('player4', 'D')) | Player: player3 | Sign: plus | Value: 3.0199999999990723
+
+Changed cells for solution 22:
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'C'), ('player4', 'C')) | Player: player3 | Sign: plus | Value: 1.02
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'C'), ('player4', 'D')) | Player: player4 | Sign: minus | Value: 2.02
+Cell: (('player1', 'D'), ('player2', 'C'), ('player3', 'C'), ('player4', 'C')) | Player: player1 | Sign: minus | Value: 5.02
+Cell: (('player1', 'D'), ('player2', 'D'), ('player3', 'C'), ('player4', 'D')) | Player: player3 | Sign: plus | Value: 3.019999999997
+
+Changed cells for solution 23:
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'C'), ('player4', 'C')) | Player: player3 | Sign: plus | Value: 1.02
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'C'), ('player4', 'C')) | Player: player4 | Sign: plus | Value: 2.02
+Cell: (('player1', 'D'), ('player2', 'C'), ('player3', 'C'), ('player4', 'C')) | Player: player1 | Sign: minus | Value: 5.02
+Cell: (('player1', 'D'), ('player2', 'D'), ('player3', 'C'), ('player4', 'D')) | Player: player3 | Sign: plus | Value: 3.019999999997
+
+Changed cells for solution 24:
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'C'), ('player4', 'C')) | Player: player1 | Sign: plus | Value: 5.019999999999936
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'C'), ('player4', 'C')) | Player: player3 | Sign: plus | Value: 1.0199999999999214
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'C'), ('player4', 'D')) | Player: player4 | Sign: minus | Value: 2.0199999999999747
+Cell: (('player1', 'D'), ('player2', 'D'), ('player3', 'C'), ('player4', 'D')) | Player: player3 | Sign: plus | Value: 3.019999999997
+
+Changed cells for solution 25:
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'C'), ('player4', 'C')) | Player: player1 | Sign: plus | Value: 5.02
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'C'), ('player4', 'C')) | Player: player3 | Sign: plus | Value: 1.02
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'C'), ('player4', 'C')) | Player: player4 | Sign: plus | Value: 2.02
+Cell: (('player1', 'D'), ('player2', 'C'), ('player3', 'D'), ('player4', 'D')) | Player: player2 | Sign: plus | Value: 7.02
+
+Changed cells for solution 26:
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'C'), ('player4', 'C')) | Player: player3 | Sign: plus | Value: 1.02
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'C'), ('player4', 'D')) | Player: player4 | Sign: minus | Value: 2.02
+Cell: (('player1', 'D'), ('player2', 'C'), ('player3', 'C'), ('player4', 'C')) | Player: player1 | Sign: minus | Value: 5.02
+Cell: (('player1', 'D'), ('player2', 'C'), ('player3', 'D'), ('player4', 'D')) | Player: player2 | Sign: plus | Value: 7.02
+
+Changed cells for solution 27:
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'C'), ('player4', 'C')) | Player: player4 | Sign: plus | Value: 2.02
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'D'), ('player4', 'C')) | Player: player3 | Sign: minus | Value: 1.02
+Cell: (('player1', 'D'), ('player2', 'C'), ('player3', 'C'), ('player4', 'C')) | Player: player1 | Sign: minus | Value: 5.02
+Cell: (('player1', 'D'), ('player2', 'C'), ('player3', 'D'), ('player4', 'D')) | Player: player2 | Sign: plus | Value: 7.019999999997481
+
+Changed cells for solution 28:
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'C'), ('player4', 'C')) | Player: player1 | Sign: plus | Value: 5.02
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'C'), ('player4', 'D')) | Player: player4 | Sign: minus | Value: 2.02
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'D'), ('player4', 'C')) | Player: player3 | Sign: minus | Value: 1.02
+Cell: (('player1', 'D'), ('player2', 'C'), ('player3', 'D'), ('player4', 'D')) | Player: player2 | Sign: plus | Value: 7.019999999997481
+
+Changed cells for solution 29:
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'C'), ('player4', 'C')) | Player: player3 | Sign: plus | Value: 1.02
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'C'), ('player4', 'C')) | Player: player4 | Sign: plus | Value: 2.02
+Cell: (('player1', 'D'), ('player2', 'C'), ('player3', 'C'), ('player4', 'C')) | Player: player1 | Sign: minus | Value: 5.02
+Cell: (('player1', 'D'), ('player2', 'C'), ('player3', 'D'), ('player4', 'D')) | Player: player2 | Sign: plus | Value: 7.019999999996344
+
+Changed cells for solution 30:
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'C'), ('player4', 'C')) | Player: player1 | Sign: plus | Value: 5.02
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'C'), ('player4', 'C')) | Player: player4 | Sign: plus | Value: 2.02
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'D'), ('player4', 'C')) | Player: player3 | Sign: minus | Value: 1.02
+Cell: (('player1', 'D'), ('player2', 'C'), ('player3', 'D'), ('player4', 'D')) | Player: player2 | Sign: plus | Value: 7.019999999996344
+
+Changed cells for solution 31:
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'C'), ('player4', 'C')) | Player: player1 | Sign: plus | Value: 5.02
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'C'), ('player4', 'C')) | Player: player3 | Sign: plus | Value: 1.02
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'C'), ('player4', 'D')) | Player: player4 | Sign: minus | Value: 2.02
+Cell: (('player1', 'D'), ('player2', 'C'), ('player3', 'D'), ('player4', 'D')) | Player: player2 | Sign: plus | Value: 7.019999999997481
+
+Changed cells for solution 32:
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'C'), ('player4', 'D')) | Player: player4 | Sign: minus | Value: 2.02
+Cell: (('player1', 'C'), ('player2', 'C'), ('player3', 'D'), ('player4', 'C')) | Player: player3 | Sign: minus | Value: 1.02
+Cell: (('player1', 'D'), ('player2', 'C'), ('player3', 'C'), ('player4', 'C')) | Player: player1 | Sign: minus | Value: 5.02
+Cell: (('player1', 'D'), ('player2', 'C'), ('player3', 'D'), ('player4', 'D')) | Player: player2 | Sign: plus | Value: 7.019999999997481
+
